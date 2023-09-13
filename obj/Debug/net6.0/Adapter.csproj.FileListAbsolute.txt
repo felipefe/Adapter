@@ -1,0 +1,15 @@
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\bin\Debug\net6.0\Adapter.exe
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\Adapter\obj\Debug\net6.0\ref\Adapter.dll
